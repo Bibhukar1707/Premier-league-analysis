@@ -1,0 +1,30 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,player,event,player,event
+4,Trevoh Chalobah, Chelsea,0.05,0,Off Target,5,Head,,Reece James,Pass (Dead),Enzo Fernández,Pass (Live)
+5,Iliman Ndiaye, Everton,0.03,0,Blocked,23,Left Foot,,Jake O'Brien,Pass (Live),James Garner,Pass (Live)
+7,James Garner, Everton,0.03,0,Blocked,21,Right Foot,,James Garner,Take-On,Vitaliy Mykolenko,Pass (Live)
+20,Iliman Ndiaye, Everton,0.04,0.22,Saved,16,Left Foot,Deflected,James Garner,Pass (Live),,
+21,Cole Palmer, Chelsea,0.49,0.53,Goal,10,Left Foot,,Malo Gusto,Pass (Live),Wesley Fofana,Pass (Live)
+23,Alejandro Garnacho, Chelsea,0.03,0,Off Target,13,Left Foot,,João Pedro,Pass (Live),João Pedro,Take-On
+23,Alejandro Garnacho, Chelsea,0.1,0,Off Target,16,Right Foot,,Alejandro Garnacho,Interception,,
+29,Enzo Fernández, Chelsea,0.08,0.09,Saved,10,Head,,Pedro Neto,Pass (Live),João Pedro,Pass (Live)
+30,Pedro Neto, Chelsea,0.02,0,Blocked,20,Left Foot,,Marc Cucurella,Pass (Live),Marc Cucurella,Interception
+35,Pedro Neto, Chelsea,0.02,0,Off Target,27,Left Foot,,Cole Palmer,Pass (Live),Malo Gusto,Pass (Live)
+38,James Tarkowski, Everton,0.04,0,Off Target,11,Head,,James Garner,Pass (Dead),Idrissa Gana Gueye,Fouled
+44,Jack Grealish, Everton,0.33,0.58,Saved,4,Right Foot,,Jack Grealish,Take-On,James Garner,Pass (Live)
+44,Malo Gusto, Chelsea,0.02,0.03,Saved,31,Right Foot,,Cole Palmer,Pass (Live),Alejandro Garnacho,Pass (Live)
+45,Malo Gusto, Chelsea,0.31,0.36,Goal,10,Left Foot,,Pedro Neto,Pass (Live),Pedro Neto,Take-On
+,,,,,,,,,,,,
+48,Alejandro Garnacho, Chelsea,0.22,0,Off Target,5,Left Foot,,Enzo Fernández,Pass (Live),Reece James,Pass (Live)
+54,Jack Grealish, Everton,0.02,0,Blocked,17,Right Foot,,Carlos Alcaraz,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+55,Alejandro Garnacho, Chelsea,0.26,0,Off Target,13,Right Foot,,Robert Sánchez,Pass (Live),Malo Gusto,Pass (Live)
+67,Jack Grealish, Everton,0.01,0,Saved off Target,16,Head,,Jake O'Brien,Pass (Live),Iliman Ndiaye,Pass (Live)
+69,Andrey Santos, Chelsea,0.14,0,Off Target,22,Left Foot,,,,,
+72,Jack Grealish, Everton,0.34,0,Off Target,5,Right Foot,,Carlos Alcaraz,Pass (Live),Iliman Ndiaye,Pass (Live)
+73,Enzo Fernández, Chelsea,0.25,0,Blocked,5,Right Foot,,Enzo Fernández,Pass (Live),Pedro Neto,Pass (Live)
+75,Reece James, Chelsea,0.06,0.21,Saved,28,Right Foot,Free kick,Reece James,Fouled,Marc Cucurella,Pass (Live)
+76,Reece James, Chelsea,0.04,0,Blocked,17,Left Foot,,Reece James,Shot,,
+80,João Pedro, Chelsea,0.06,0,Off Target,13,Right Foot,,Malo Gusto,Pass (Live),Malo Gusto,Interception
+87,Iliman Ndiaye, Everton,0.07,0,Woodwork,13,Left Foot,,Carlos Alcaraz,Pass (Live),Tyler Dibling,Pass (Live)
+89,Carlos Alcaraz, Everton,0.09,0,Blocked,15,Right Foot,,Vitaliy Mykolenko,Pass (Live),Vitaliy Mykolenko,Take-On
+89,Michael Keane, Everton,0.04,0,Off Target,7,Left Foot,,Carlos Alcaraz,Pass (Dead),Carlos Alcaraz,Shot
+90+2,Jamie Gittens, Chelsea,0.05,0,Off Target,23,Right Foot,,Andrey Santos,Pass (Live),Estêvão Willian,Pass (Live)
