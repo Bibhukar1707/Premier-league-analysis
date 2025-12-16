@@ -1,0 +1,35 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,player,event,player,event
+2.0,Bruno Fernandes, Manchester Utd,0.04,0,Blocked,16.0,Left Foot,,Bryan Mbeumo,Pass (Live),Amad Diallo,Pass (Live)
+2.0,Matheus Cunha, Manchester Utd,0.02,0,Blocked,29.0,Left Foot,,Casemiro,Pass (Live),Matheus Cunha,Pass (Live)
+7.0,Amad Diallo, Manchester Utd,0.04,0,Blocked,12.0,Right Foot,,Amad Diallo,Take-On,Mason Mount,Pass (Live)
+8.0,Matheus Cunha, Manchester Utd,0.15,0,Blocked,5.0,Head,,Amad Diallo,Pass (Dead),Amad Diallo,Shot
+8.0,Mason Mount, Manchester Utd,0.07,0.18,Saved,13.0,Left Foot,Volley,Bryan Mbeumo,Pass (Live),Luke Shaw,Pass (Live)
+9.0,Casemiro, Manchester Utd,0.09,0,Blocked,15.0,Right Foot,,Matheus Cunha,Pass (Live),Bryan Mbeumo,Pass (Live)
+9.0,Casemiro, Manchester Utd,0.03,0,Off Target,30.0,Left Foot,,Diogo Dalot,Pass (Live),Casemiro,Shot
+13.0,Amad Diallo, Manchester Utd,0.97,0.99,Goal,1.0,Head,,Casemiro,Pass (Live),Amad Diallo,Pass (Live)
+19.0,Matheus Cunha, Manchester Utd,0.09,0,Off Target,19.0,Right Foot,,Bruno Fernandes,Pass (Live),Amad Diallo,Pass (Live)
+23.0,Matheus Cunha, Manchester Utd,0.04,0,Blocked,14.0,Left Foot,,Bruno Fernandes,Pass (Live),,
+25.0,Amad Diallo, Manchester Utd,0.02,0,Blocked,18.0,Left Foot,,Mason Mount,Pass (Live),,
+26.0,Bryan Mbeumo, Manchester Utd,0.09,0.14,Saved,15.0,Right Foot,,Diogo Dalot,Pass (Live),Casemiro,Pass (Live)
+29.0,Marcus Tavernier, Bournemouth,0.62,0,Off Target,4.0,Left Foot,,Marcus Tavernier,Shot,,
+29.0,Marcus Tavernier, Bournemouth,0.14,0.26,Saved,8.0,Head,,Justin Kluivert,Pass (Live),Adam Smith,Pass (Live)
+31.0,Evanilson, Bournemouth,0.03,0,Off Target,28.0,Right Foot,,Antoine Semenyo,Pass (Live),Marcos Senesi,Pass (Live)
+32.0,Justin Kluivert, Bournemouth,0.03,0,Off Target,26.0,Right Foot,,Marcus Tavernier,Pass (Live),Marcos Senesi,Pass (Live)
+34.0,Amad Diallo, Manchester Utd,0.22,0,Blocked,11.0,Left Foot,,Amad Diallo,Take-On,Matheus Cunha,Pass (Live)
+36.0,Bryan Mbeumo, Manchester Utd,0.16,0,Off Target,12.0,Left Foot,Volley,Matheus Cunha,Pass (Live),Ayden Heaven,Pass (Live)
+39.0,Casemiro, Manchester Utd,0.05,0,Off Target,15.0,Left Foot,,Bruno Fernandes,Pass (Live),Matheus Cunha,Pass (Live)
+40.0,Antoine Semenyo, Bournemouth,0.13,0.7,Goal,14.0,Right Foot,,Adam Smith,Pass (Live),,
+45.0,Alex Scott, Bournemouth,0.09,0,Off Target,17.0,Left Foot,,Marcos Senesi,Pass (Live),Justin Kluivert,Pass (Dead)
+45.0,Marcus Tavernier, Bournemouth,0.02,0.3,Saved,28.0,Left Foot,Deflected,Justin Kluivert,Pass (Live),Adrien Truffert,Pass (Live)
+46.0,Evanilson, Bournemouth,0.29,0.77,Goal,16.0,Left Foot,,Marcus Tavernier,Pass (Live),Marcos Senesi,Pass (Live)
+52.0,Marcus Tavernier, Bournemouth,0.12,0.14,Goal,25.0,Left Foot,Free kick,Marcus Tavernier,Fouled,,
+64.0,Bryan Mbeumo, Manchester Utd,0.09,0.12,Saved,21.0,Left Foot,Deflected,,,,
+70.0,Matheus Cunha, Manchester Utd,0.02,0,Blocked,18.0,Right Foot,Volley,,,,
+70.0,Bryan Mbeumo, Manchester Utd,0.14,0,Off Target,10.0,Left Foot,,Matheus Cunha,Shot,,
+75.0,Matheus Cunha, Manchester Utd,0.04,0.08,Saved,24.0,Right Foot,,Ayden Heaven,Pass (Live),Kobbie Mainoo,Pass (Live)
+77.0,Bruno Fernandes, Manchester Utd,0.07,0.77,Goal,24.0,Right Foot,Free kick,,Fouled,Matheus Cunha,Shot
+79.0,Matheus Cunha, Manchester Utd,0.63,0.79,Goal,11.0,Right Foot,,Matheus Cunha,Pass (Live),,
+82.0,Alex Scott, Bournemouth,0.03,0,Off Target,30.0,Right Foot,,Marcus Tavernier,Pass (Live),,
+84.0,Eli Junior Kroupi, Bournemouth,0.23,0.83,Goal,15.0,Left Foot,,Alex Scott,Pass (Live),,
+87.0,Bruno Fernandes, Manchester Utd,0.01,0,Off Target,29.0,Right Foot,Volley,Diogo Dalot,Pass (Live),Kobbie Mainoo,Pass (Live)
+90.0,Matheus Cunha, Manchester Utd,0.02,0.03,Saved,29.0,Right Foot,,Kobbie Mainoo,Pass (Live),Matheus Cunha,Pass (Live)

@@ -1,0 +1,15 @@
+squad,time_window,shots
+ Bournemouth,0-15,0
+ Bournemouth,16-30,2
+ Bournemouth,31-45+,5
+ Bournemouth,46-60,2
+ Bournemouth,61-75,0
+ Bournemouth,76-90+,2
+ Bournemouth,90+,0
+ Manchester Utd,0-15,8
+ Manchester Utd,16-30,4
+ Manchester Utd,31-45+,3
+ Manchester Utd,46-60,0
+ Manchester Utd,61-75,4
+ Manchester Utd,76-90+,4
+ Manchester Utd,90+,0
