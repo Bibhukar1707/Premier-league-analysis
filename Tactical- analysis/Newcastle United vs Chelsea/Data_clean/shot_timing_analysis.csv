@@ -1,0 +1,15 @@
+squad,time_window,shots
+ Chelsea,0-15,3
+ Chelsea,16-30,0
+ Chelsea,31-45+,1
+ Chelsea,46-60,3
+ Chelsea,61-75,2
+ Chelsea,76-90+,4
+ Chelsea,90+,0
+ Newcastle Utd,0-15,3
+ Newcastle Utd,16-30,2
+ Newcastle Utd,31-45+,1
+ Newcastle Utd,46-60,0
+ Newcastle Utd,61-75,1
+ Newcastle Utd,76-90+,3
+ Newcastle Utd,90+,0

@@ -1,0 +1,9 @@
+team,shots,passes_completed,passes_attempted,fouls,corners
+Newcastle United,22,616,"0
+att    830
+att    830
+dtype: int64",0.0,0.0
+Chelsea,26,738,"0
+att    930
+att    930
+dtype: int64",0.0,0.0
