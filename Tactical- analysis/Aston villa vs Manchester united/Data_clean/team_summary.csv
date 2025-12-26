@@ -1,0 +1,9 @@
+team,shots,passes_completed,passes_attempted,fouls,corners
+Aston Villa,24,578,"0
+att    750
+att    750
+dtype: int64",0.0,0.0
+Manchester United,30,834,"0
+att    1020
+att    1020
+dtype: int64",0.0,0.0
