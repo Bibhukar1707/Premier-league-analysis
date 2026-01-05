@@ -118,3 +118,5 @@ Encourage quicker third-man combinations to bypass aggressive first-line pressur
 7. Final Summary
 
 Chelsea attempted to build primarily from a back four against Bournemouth’s aggressive high press. Bournemouth’s man-oriented approach and central denial consistently disrupted Chelsea’s build-up, forcing frequent long distributions and reliance on second balls. While Chelsea adapted through temporary back threes and goalkeeper involvement, these solutions lacked consistency in the first half. Second-half personnel and structural adjustments improved Chelsea’s control and reduced Bournemouth’s pressing efficiency, but only partially resolved the build-up challenges.
+
+P.S: The mentioned clips are available in the cliplog uploaded on this folder
